@@ -3,7 +3,6 @@
 **I'm Marcos Bonifasi**,
 dreamer and passionate about information technologies
 
-***status***: learning web development 
 
 <!--
 **MarcosBonifasi/MarcosBonifasi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
