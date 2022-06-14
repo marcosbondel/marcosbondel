@@ -1,7 +1,9 @@
-## Hey! 👋
+## Hi there! 👋
 
 **I'm Marcos Bonifasi**,
-dreamer and passionate about information technologies
+dreamer and passionate about information technologies.
+
+Looking for something incredible to create :octocat:
 
 
 <!--
