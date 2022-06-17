@@ -3,7 +3,7 @@
 **I'm Marcos Bonifasi**,
 dreamer and passionate about information technologies.
 
-Looking for something incredible to create :octocat:
+Looking for something incredible to create :octocat:     
 Un kinalero mas 👨‍🎓
 
 <!--
