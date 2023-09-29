@@ -17,6 +17,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-[![committers.top badge](https://user-badge.committers.top/guatemala_private/mbonifasii.svg)](https://user-badge.committers.top/guatemala_private/mbonifasii)
 
 ![](https://komarev.com/ghpvc/?username=mbonii&color=0000FF)
