@@ -1,7 +1,7 @@
 ## Hi there! 👋
 
-**I'm Marcos Bonifasi**,
-dreamer and passionate about information technologies.
+**I'm Marcos Bonifasi**      
+Universidad de San Carlos de Guatemala
 
 <!--
 **MarcosBonifasi/MarcosBonifasi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
