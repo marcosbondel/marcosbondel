@@ -1,7 +1,8 @@
 <h1 align="center">Hi there👋, I'm Marcos Bonifasi</h1>
 <h3 align="center">Aspiring entrepreneur, engineering student</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=marcosbondel&label=Profile%20views&color=0e75b6&style=flat" alt="marcosbondel" /> </p>
+![](https://komarev.com/ghpvc/?username=mbonii&color=0000FF)
+[![committers.top badge](https://user-badge.committers.top/guatemala_private/marcosbondel.svg)](https://user-badge.committers.top/guatemala_private/marcosbondel)
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=marcosbondel" alt="marcosbondel" /></a> </p>
 
