@@ -14,7 +14,7 @@
 
 - 👨‍💻 All of my projects are available at [marcosbondel.github.io](https://github.com/marcosbondel/marcosbondel.github.io)
 
-- 💬 Ask me about **MERN, Ruby, Python, Golang and AI/ML**
+- 💬 Ask me about **MERN, Compilers, Rails, Node.js, Python and AI/ML**
 
 - 📫 How to reach me **marcosbonfasi19@gmail.com**
 
