@@ -28,8 +28,4 @@ Currently open to remote backend / Rails roles with international teams.
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/marcosbonifasi) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/marcosbondel) 
 
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=marcosbondel&theme=dark&no-frame=false&no-bg=false&margin-w=4)
 
----
-[![](https://visitcount.itsvg.in/api?id=marcosbondel&icon=2&color=0)](https://visitcount.itsvg.in)
