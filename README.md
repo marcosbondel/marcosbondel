@@ -5,6 +5,13 @@
 ![](https://nirzak-streak-stats.vercel.app/?user=marcosbondel&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=marcosbondel&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=marcosbondel&show_icons=true&locale=en&layout=compact" alt="marcosbondel" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=marcosbondel&show_icons=true&locale=en" alt="marcosbondel" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=marcosbondel&" alt="marcosbondel" /></p>
+
+
 Backend-focused Software Engineer specialized in Ruby on Rails, with strong experience building and maintaining production-grade systems.
 
 I have worked on real-world platforms such as CRM systems for international clients, focusing on performance, scalability, and maintainability. My background combines backend engineering, cloud architecture (AWS), and practical business understanding.
