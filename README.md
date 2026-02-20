@@ -1,5 +1,5 @@
 <h1 align="center">Hi there👋, I'm Marcos Bonifasi de León</h1>
-<h3 align="center">Cloud Architect, Full stack software developer, entrepreneur</h3>
+<h3 align="center">Ruby on Rails Backend Engineer | PostgreSQL, React, Vue | AWS Cloud Architect | Remote LATAM</h3>
 
 
 Backend-focused Software Engineer specialized in Ruby on Rails, with strong experience building and maintaining production-grade systems.
