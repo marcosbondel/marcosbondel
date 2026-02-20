@@ -1,14 +1,6 @@
 <h1 align="center">Hi there👋, I'm Marcos Bonifasi</h1>
 <h3 align="center">Ruby on Rails Backend Engineer | PostgreSQL, React, Vue | AWS Cloud Architect | Remote LATAM</h3>
 
-![](https://github-readme-stats.vercel.app/api?username=marcosbondel&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=marcosbondel&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=marcosbondel&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=marcosbondel&show_icons=true&locale=en&layout=compact" alt="marcosbondel" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=marcosbondel&show_icons=true&locale=en" alt="marcosbondel" /></p>
-
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=marcosbondel&" alt="marcosbondel" /></p>
 
 
