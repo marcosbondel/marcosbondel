@@ -1,21 +1,28 @@
 <h1 align="center">Hi there👋, I'm Marcos Bonifasi de León</h1>
-<h3 align="center">Ruby on Rails Backend Engineer | PostgreSQL, React, Vue | AWS Cloud Architect | Remote LATAM</h3>
+<h3 align="center">Ruby on Rails Backend Engineer | AI-Assisted Development, n8n Automation | PostgreSQL, React, Vue | Remote LATAM</h3>
 
 <p style="text-align: center;"><img align="center" style="text-align: center;" src="https://github-readme-streak-stats.herokuapp.com/?user=marcosbondel&" alt="marcosbondel" /></p>
 
 
-Backend-focused Software Engineer specialized in Ruby on Rails, with strong experience building and maintaining production-grade systems.
+Backend-focused Software Engineer specialized in Ruby on Rails, with experience building and maintaining production-grade systems.
 
-I have worked on real-world platforms such as CRM systems for international clients, focusing on performance, scalability, and maintainability. My background combines backend engineering, cloud architecture (AWS), and practical business understanding.
+I have worked on real-world platforms such as CRM systems, ecommerce platforms, automation workflows, and business applications for international and local clients. My work focuses on performance, scalability, maintainability, and delivering software that supports real business operations.
+
+My background combines backend engineering, database design, cloud infrastructure, AI-assisted development, and practical business understanding.
 
 I specialize in:
+
 - Ruby on Rails backend architecture
 - PostgreSQL data modeling and performance
-- REST APIs and background jobs (Sidekiq)
-- Cloud infrastructure on AWS
+- REST APIs and background jobs with Sidekiq
 - Frontend integration with React and Vue
+- Cloud infrastructure using AWS services such as EC2, S3, and SES
+- Workflow automation with n8n
+- AI-assisted software development using tools such as Claude Code, GitHub Copilot, Cline, and Antigravity
 
-I enjoy taking ownership of systems, improving existing architectures, and delivering reliable software that supports business growth.
+I enjoy taking ownership of systems, improving existing architectures, automating repetitive processes, and building reliable software that helps businesses grow.
+
+I am especially interested in backend engineering roles where I can combine Ruby on Rails, automation, and AI-powered development workflows to build better products faster.
 
 Currently open to remote backend / Rails roles with international teams.
 
